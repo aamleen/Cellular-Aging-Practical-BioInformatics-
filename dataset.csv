@@ -1,0 +1,263 @@
+Table 1:  Erythrocyte Data and sources for Figure 1.,,,,,,,,
+Group,Species,Body Temperature (oC ),Body Mass (kg),Average Cell Lifespan (d),Source,,,
+mammals,Ammotragus lervia,37,45.5,147,Vacha 1983,,,
+mammals,Bos Taurus,38.3,404,130,"White and Seymour 2003, Vacha 1983",,,
+mammals,Canis familiaris,38.9,14.5,100,"White and Seymour 2003, Vacha 1983",,,
+mammals,Capra hirkus,39.1,31.8,115,"White and Seymour 2003, Vacha 1983",,,
+mammals,Cavia aperea Erx. Var. Procellus,39a,0.715,80,"Clarke et al. 2010, Vacha 1983",,,
+mammals,Cervus elaphus canadensis,38.9,275,149,"White and Seymour 2003, Vacha 1983",,,
+mammals,Cervus nippon nippon,37.1,55,159,"Suzuki et al. 2001, Vacha 1983",,,
+mammals,Choloepus didactylus L.,34.4b,9,113.5,"Clarke et al. 2010, Vacha 1983",,,
+mammals,Citellus tridecemlineatus Mitchill,38.9,0.193,94.6,"Hock 1960, Vacha 1983",,,
+mammals,Dasypus novemcincius,34.9,4.4,72,"Johansen 1961, Vacha 1983",,,
+mammals,Didelphis marsupialis virginiana,35,3.7,74,"White and Seymour 2003, Vacha 1983",,,
+mammals,Equis caballus,37.6,486,143,"White and Seymour 2003, Vacha 1983",,,
+mammals,Erinaceus europaeus,33.9,0.672,91.2,"Webb & Ellison 1998, Vacha 1983",,,
+mammals,Felis catus,38.6,3.6,72.5,"White and Seymour 2003, Vacha 1983",,,
+mammals,Glis glis,37.7,0.12,91,"Clarke et al. 2010, Vacha 1983",,,
+mammals,Glossophaga soricina,24.5,0.0102,181.8,"White and Seymour 2003, Voight et al. 2003",,,
+mammals,Hemitragus jemlahicus jemlahicus,37,35.3,156,Vacha 1983,,,
+mammals,Homo sapiens,37,65,110,"White and Seymour 2003, Smith et al. 2003,",,,
+,,,,,Rodnan et al. 1967; Kurata et al. 1993,,,
+mammals,Lama guanicos,38.7c,72,201,"Clarke et al. 2010, Vacha 1983",,,
+mammals,Leptonycteris curasoae,24.5,0.0236,173.1,"White and Seymour 2003, Voight et al. 2003",,,
+mammals,Lutreola vison,37.3,0.795,92.2,"Youngman 1990, Vacha 1983",,,
+mammals,Macaca mullata,37,6.5,95.8,"White and Seymour 2003, Vacha 1983",,,
+mammals,Meriones unguiacalatus,38.2,0.066,43,"White and Seymour 2003, Vacha 1983",,,
+mammals,Mus musculus,36.9,0.0257,43,"White and Seymour 2003, Vacha 1983",,,
+mammals,Odocoileus hemionna,39d,32,95,"Clarke et al. 2010, Vacha 1983",,,
+mammals,Odocoileus virginianus,39,73.7,127,"Clarke et al. 2010, Vacha 1983",,,
+mammals,Oryctolagus corniculus,39,3.2,57,"White and Seymour 2003, Vacha 1983",,,
+mammals,Ovis aries,39.1,64,135,"White and Seymour 2003, Vacha 1983",,,
+mammals,Rattus norvegicus,37.3,0.302,56,"White and Seymour 2003, Vacha 1983",,,
+,,,,,,,,
+birds,Columba livia,40,0.415,35,Rodnan et al. 1957,,,
+birds,Corvus brachyrhynchos,41.5,0.416,43,"Baldwin & Kendeigh 1932 as in Verbeek 1995,",,,
+,,,,,Hobson & Clark 1993,,,
+birds,Coturnix coturnix japonica,40.8,0.1126,18,"Freeman 1970, Nirmalan & Robinson 1973",,,
+birds,Dendroica coronata,40.5,0.0115,15.7,"Yarboroug 1971, Podlesak et al. 2005",,,
+birds,Gallus gallus,41.7,3.4,30,"White and Seymour 2003, Rodnan et al. 1957",,,
+birds,Passer domesticus,43.5,0.022,27.8,"McNab 1966, Bauchinger and McWilliams 2009",,,
+birds,Pygoscelis adeliae,38.2,4.9,31.4,"McNab 1966, Beaulieu et al. 2010",,,
+birds,Taeniopygia guttata,41,0.016,19.3,Bauchinger and McWilliams 2009,,,
+,,,,,,,,
+reptiles,Alligator mississippiensis,31,2.5,256.3,"Cline & Waldman 1962a, Cline & Waldman 1962b",,,
+reptiles,Alligator mississippiensis,16.5,2.5,1135.2,"Cline & Waldman 1962a, Cline & Waldman 1962b",,,
+reptiles,Caretta caretta,26.5,0.2088,40.1,Reich et al. 2008,,,
+reptiles,Caretta caretta,26.5,0.0198,76.9,Reich et al. 2008,,,
+reptiles,Elapha o. obsoleta,20,0.625,122,"Marvin 1963, Baeyens et al. 1980",,,
+,,,,,,,,
+amphibians,Rana catesbeiana (tadpoles),25,0.0195,98.7,"Forman & Just 1975, Kupferberg 1997",,,
+amphibians,Rana pipiens,25,0.078,172,Cline & Waldman 1962b,,,
+amphibians,Taricha granulosa,14,0.007,86,Freidman et al. 1969,,,
+,,,,,,,,
+fishes,Carassius auratus langsdorfii,25,0.225,73.6,"Fischer et al. 1998, Nakanishi & Ototake 1999",,,
+fishes,Crassius auratus,19.5,0.0091,111.8,Houston & Murad 1995,,,
+fishes,Oncorhynchus mykiss,12e,1.4,500,Avery et al. 1992,,,
+fishes,Pterygoplichthys disjunctivus,25,0.051,127.8,German and Miles 2010,,,
+fishes,Tinca tinca,18,0.13,150,Hevesy et al 1964,,,
+Table 2:  Data and Sources for Figure 2,,,,,,,,
+Group,Species,Cell Type,Body Temperature (oC ),Body Mass (kg),Average Cell Lifespan (d),Cell Volume (um3),Cell Dimensions (um),Sources
+mammals,Didelphis marsupialis virginiana,erythrocyte,35,3.7,74,77,,"White and Seymour 2003,"
+,,,,,,,,"Vacha 1983,"
+,,,,,,,,genomesize.com/cellsize
+mammals,Erinaceus europaeus,erythrocyte,33.93,0.67,91.2,41,,"Webb & Ellison 1998,"
+,,,,,,,,"Vacha 1983,"
+,,,,,,,,genomesize.com/cellsize
+mammals,Macaca mullata,erythrocyte,37,6.5,95.8,76.9,,"White and Seymour 2003,"
+,,,,,,,,"Vacha 1983,"
+,,,,,,,,Savage et al. 2007
+mammals,Lutreola vison,erythrocyte,37.3,0.8,92.2,54.4,,"Youngman 1990,"
+,,,,,,,,"Vacha 1983,"
+,,,,,,,,Mustonenen et al. 2005
+mammals,Canis familiaris,erythrocyte,38.9,14.5,100,69.8,,"White and Seymour 2003,"
+,,,,,,,,"Vacha 1983,"
+,,,,,,,,genomesize.com/cellsize
+mammals,Felis catus,erythrocyte,38.6,3.6,72.5,52.5,,"White and Seymour 2003,"
+,,,,,,,,"Vacha 1983,"
+,,,,,,,,genomesize.com/cellsize
+mammals,Dasypus novemcincius,erythrocyte,34.9,4.4,72,59.6,,"Johansen 1961,"
+,,,,,,,,"Vacha 1983,"
+,,,,,,,,Dhindsa et al. 1971
+mammals,Choloepus didactylus L.,erythrocyte,34.4a,9,113.5,113.7,,Clarke et al. 2010
+,,,,,,,,"Vacha 1983,"
+,,,,,,,,Marvin & Shook 1964
+mammals,Citellus tridecemlineatus Mitchill,erythrocyte,38.9,0.19,94.6,50.9,,"Hock 1960, Vacha 1983,"
+,,,,,,,,McLaughlin & Meints 1972
+mammals,Meriones unguiacalatus,erythrocyte,38.2,0.07,43,55,,"White and Seymour 2003,"
+,,,,,,,,"Vacha 1983,"
+,,,,,,,,genomesize.com/cellsize
+mammals,Rattus norvegicus,erythrocyte,37.3,0.3,56,61.8,,"White and Seymour 2003,"
+,,,,,,,,"Vacha 1983,"
+,,,,,,,,Savage et al. 2007
+mammals,Mus musculus,erythrocyte,36.9,0.03,43,52.9,,White and Seymour 2003
+,,,,,,,,"Vacha 1983,"
+,,,,,,,,Savage et al. 2007
+mammals,Cavia aperea Erx. Var. Procellus,erythrocyte,39b,0.72,80,80.6b,,"Clarke et al. 2010,"
+,,,,,,,,"Vacha 1983,"
+,,,,,,,,genomesize.com/cellsize
+mammals,Equis caballus,erythrocyte,37.6,486,143,51.9,,White and Seymour 2003
+,,,,,,,,"Vacha 1983,"
+,,,,,,,,Savage et al. 2007
+mammals,Oryctolagus corniculus,erythrocyte,39,3.2,57,72.2,,"White and Seymour 2003,"
+,,,,,,,,"Vacha 1983,"
+,,,,,,,,Savage et al. 2007
+mammals,Lama guanicos,erythrocyte,38.7c,72,201,40,,"Clarke et al. 2010,"
+,,,,,,,,"Vacha 1983,"
+,,,,,,,,genomesize.com/cellsize
+mammals,Odocoileus hemionna,erythrocyte,39d,32,95,48,,"Clarke et al. 2010,"
+,,,,,,,,"Vacha 1983,"
+,,,,,,,,genomesize.com/cellsize
+mammals,Odocoileus virginianus,erythrocyte,39,73.7,127,47,,"Clarke et al. 2010,"
+,,,,,,,,"Vacha 1983,"
+,,,,,,,,genomesize.com/cellsize
+mammals,Cervus nippon nippon,erythrocyte,37.1,55,159,35,,"Suzuki et al. 2001,"
+,,,,,,,,"Vacha 1983,"
+,,,,,,,,genomesize.com/cellsize
+mammals,Cervus elaphus canadensis,erythrocyte,38.9,275,149,44,,"White and Seymour 2003,"
+,,,,,,,,"Vacha 1983,"
+,,,,,,,,genomesize.com/cellsize
+mammals,Capra hirkus,erythrocyte,39.1,31.8,115,21,,"White and Seymour 2003,"
+,,,,,,,,"Vacha 1983,"
+,,,,,,,,genomesize.com/cellsize
+mammals,Ammotragus lervia,erythrocyte,37e,45.5,147,29,,"Vacha 1983,"
+,,,,,,,,genomesize.com/cellsize
+mammals,Ovis aries,erythrocyte,39.1,64,135,34.3,,"White and Seymour 2003,"
+,,,,,,,,"Vacha 1983,"
+,,,,,,,,genomesize.com/cellsize
+mammals,Bos Taurus,erythrocyte,38.3,404,130,52,,"White and Seymour 2003,"
+,,,,,,,,"Vacha 1983,"
+,,,,,,,,genomesize.com/cellsize
+mammals,Homo sapiens,erythrocyte,37,65,110,88.3,,"White and Seymour 2003,"
+,,,,,,,,"Smith et al. 2003,"
+,,,,,,,,Rodnan et al. 1967;
+,,,,,,,,"Kurata et al. 1993,"
+,,,,,,,,genomesize.com/cellsize
+,,,,,,,,
+birds,Gallus gallus,erythrocyte,41.7,3.4,30,102,,"White and Seymour 2003,"
+,,,,,,,,Rodnan et al. 1957
+birds,Columba livia,erythrocyte,40,0.42,35,171.2,,"Rodnan et al. 1957,"
+,,,,,,,,Pavlak et al. 2005
+birds,Corvus brachyrhynchos,erythrocyte,41.5,0.42,0,137.5f,,"Baldwin & Kendeigh 1932,"
+,,,,,,,,"as in Verbeek 1995,"
+,,,,,,,,"Hobson & Clark 1993,"
+,,,,,,,,Ihedioha et al. 2001
+birds,Dendroica coronata,erythrocyte,40.5,0.01,15.7,380.1g,D: 0.4625,"Yarboroug 1971,"
+,,,,,,,,"Podlesak et al. 2005,"
+,,,,,,,,genomesize.com/cellsize
+birds,Coturnix coturnix japonica,erythrocyte,40.8,0.11,18,102.5,,"Freeman 1970,"
+,,,,,,,,Nirmalan & Robinson
+,,,,,,,,"1973, Schindler et al. 1987"
+birds,Taeniopygia guttata,erythrocyte,41h,0.02,19.3,108,,Bauchinger & McWilliams
+,,,,,,,,"2009,"
+,,,,,,,,Wagner et al. 2008
+birds,Passer domesticus,erythrocyte,43.5,0.02,27.8,374.4g,D: 11.3; W:5.6,"McNab 1966,"
+,,,,,,,,Bauchinger & McWilliam
+,,,,,,,,"2009,"
+,,,,,,,,genomesize.com/cellsize
+,,,,,,,,
+fishes,Tinca tinca,erythrocyte,18,0.13,150,191.7g,L: 13.4; W:10.6,"Hevesy et al 1964,"
+,,,,,,,,Shah 2006
+fishes,Oncorhynchus mykiss,erythrocyte,12i,1.4,500,274,,"Avery et al. 1992,"
+,,,,,,,,genomesize.com/cellsize
+fishes,Crassius auratus,erythrocyte,19.5,0.01,111.8,116,,Houston & Murad 1995
+fishes,Pterygoplichthys disjunctivus,erythrocyte,25,0.05,127.8,,,German and Miles 2010
+,,,,,,,,
+amphibians,Rana pipiens,erythrocyte,25,0.08,0,711,,"Cline & Waldman 1962b,"
+,,,,,,,,Harris 1972
+amphibians,Rana catesbeiana (tadpoles),erythrocyte,25,0.02,98.7,670j,,"Kupferberg 1997,"
+,,,,,,,,"Forman & Just 1975,"
+,,,,,,,,Harris 1972
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+mammals,Homo sapiens,T cell,37,65,230.8,523.3,,"White and Seymour 2003,"
+,,,,,,,,"Lagerlof 2007,"
+,,,,,,,,"Ramalho et al. 1995,"
+,,,,,,,,Grossi et al. 1978
+mammals,Homo sapiens,neutrophil granulocyte,37,65,11.2,299,,"White and Seymour 2003,"
+,,,,,,,,"Lagerlof 2007,"
+,,,,,,,,"Pillay et al. 2010,"
+,,,,,,,,Ting-Beall et al. 1993
+mammals,Homo sapiens,adipocyte,37,65,3650,500000,,"White and Seymour 2003,"
+,,,,,,,,"Lagerlof 2007,"
+,,,,,,,,Arner et al. 2010
+mammals,Homo sapiens,naïve T-cell lymphocyte,37,65,1277.5,523.6,,"White and Seymour 2003,"
+,,,,,,,,"Lagerlof 2007,"
+,,,,,,,,"Adibzadeh et al 1996,"
+,,,,,,,,Ramón-Cajal &
+,,,,,,,,Tello-Muñoz 1933
+mammals,Homo sapiens,memory T-cell lymphocyte,37,65,154,321.6,,"White and Seymour 2003,"
+,,,,,,,,"Lagerlof 2007,"
+,,,,,,,,"Adibzadeh et al 1996,"
+,,,,,,,,Ramón-Cajal &
+,,,,,,,,Tello-Muñoz 1933
+mammals,Homo sapiens,Cardio-myocyte,37,65,1642.5,48000,,"White and Seymour 2003,"
+,,,,,,,,"Lagerlof 2007,"
+,,,,,,,,"Kajstura et al. 2010,"
+,,,,,,,,Del Monte et al. 1995
+,,,,,,,,
+,,,,,,,,
+mammals,Rattus norvegicus,Beta cell,37.3,0.25,56,1020,,"White and Seymour 2003,"
+,,,,,,,,"Dingli et al. 2008,"
+,,,,,,,,Finegood et al. 1995
+mammals,Rattus norvegicus,pituitary cells/ corticotroph,37.3,0.11,65,0.001,,"White and Seymour 2003,"
+,,,,,,,,Nolan et al. 1998
+mammals,Rattus norvegicus,hepatocyte,37.3,0.3,439.5,2977,,"White and Seymour 2003,"
+,,,,,,,,"Qian and Brosnan 1996,"
+,,,,,,,,Chandar et al. 1987
+mammals,Rattus norvegicus,basal epithelial cell (airway),37.3,0.2,82,1436,,"White and Seymour 2003,"
+,,,,,,,,"Blenkinsopp 1967,"
+,,,,,,,,Shebani et al. 2004
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+mammals,Mus musculus,hepatocyte,36.9,0.033,300,4154,,"White and Seymour 2003,"
+,,,,,,,,"MacDonald 1961,"
+,,,,,,,,Martin et al. 2002
+mammals,Mus musculus,ciliated epithelium (trachea),36.9,0.03,180,523.3,,"White and Seymour 2003,"
+,,,,,,,,"MacDonald 1961,"
+,,,,,,,,"Rawlins and Hogan 2008,"
+,,,,,,,,Lock and Valverde 2000
+mammals,Mus musculus,memory T-cell lymphocyte,36.9,0.03,90.9,120,,"White and Seymour 2003,"
+,,,,,,,,"MacDonald 1961,"
+,,,,,,,,"Parretta et al. 2008,"
+,,,,,,,,Bobak et al. 2011
+,,,,,,,,
+,,,,,,,,
+fishes,Carassius auratus langsdorfii,thrombocyte,25,0.23,70,71.5k,D: 5.15l,"Fischer et al. 1998,"
+,,,,,,,,Rey Vazquez &
+,,,,,,,,Guerrero 2007
+fishes,Carassius auratus langsdorfii,lymphocyte,25,0.23,145,258k,D: 7.9l,"Fischer et al. 1998,"
+,,,,,,,,Rey Vazquez &
+,,,,,,,,Guerrero 2007
+fishes,Carassius auratus langsdorfii,monocyte,25,0.23,95,904k,D: 12l,"Fischer et al. 1998,"
+,,,,,,,,Rey Vazquez &
+,,,,,,,,Guerrero 2007
+Table 3:  Data and Sources for Figure 3.,,,,,,,,
+Group,Species,Cell Type,BodyMass (kg),Replicative Lifespan (d),Sources,,,
+mammals,Bos Taurus,young adult fibroblast,725,74,Lorenzini et al. 2005,,,
+mammals,Bos Taurus,adult parathyroid cell,725,140,"Brandi et al. 1986, Lorenzini et al. 2005",,,
+mammals,Canis familiaris,young adult fibroblast,10.8,30,Lorenzini et al. 2005,,,
+mammals,Eptesicus fuscus,young adult fibroblast,0.022,14,Lorenzini et al. 2005,,,
+mammals,Felis catus,young adult fibroblast,4,24,Lorenzini et al. 2005,,,
+mammals,Gorilla gorilla,young adult fibroblast,155,81,Lorenzini et al. 2005,,,
+mammals,Heterocephalus glaber,young adult fibroblast,0.042,16,Lorenzini et al. 2005,,,
+mammals,Homo sapiens,adult osteoblast,65,31,Kassem et al. 1997,,,
+mammals,Homo sapiens,young adult fibroblast,70,40,Lorenzini et al. 2005,,,
+mammals,Mesocricetus auratus,adult dermis,0.1,12.45,Bruce et. al 1986,,,
+mammals,Mus musculus,young adult fibroblast,0.0225,8,Lorenzini et al. 2005,,,
+mammals,Peromyscus maniculatus,young adult fibroblast,0.0265,11,Lorenzini et al. 2005,,,
+mammals,Rattus norvegicus,young adult fibroblast,0.33,19,Lorenzini et al. 2005,,,
+mammals,Sciurus carolinensis,young adult fibroblast,0.52,10,Lorenzini et al. 2005,,,
+,,,,,,,,
+birds,Gallus gallus,embryo fibroblast,3.4,32.5,"Lima 1972, Rodnan et al. 1957",,,
+,,,,,,,,
+reptiles,Testudo elephantopus,adult T1 cell,7.9,114,Goldstein 1974,,,
+,,,,,,,,
+amphibians,Rana  nigromaculata,froglet melanophore,0.025,12.8,"Okumoto 2001, Konsue et al. 2001",,,
+amphibians,Rana catesbeiana,melanophores,0.14726,69,"Kondo and Ide 1983, Wang et al. 2007",,,
+,,,,,,,,
+fishes,Cynoscion nebulosus,adult muscle,0.42379927,125,"Middlebrooks et al. 1979,",,,
+,,,,,Johnson & Seaman 1986,,,
+fishes,Oryzias latipes,fibroblast,0.000527,6.9,"Komura et l. 1987, Davies et al. 2002",,,
